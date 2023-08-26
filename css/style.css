@@ -1,0 +1,40 @@
+body{
+    background-color: red;
+    
+
+}
+.salom{
+background-color: rgb(121, 14, 14);
+border-width: medium;
+padding: 70px 200px;
+width: 500px;
+height: 445px;
+margin: 50px auto;
+}
+
+
+button{
+    padding: 0px 109px;
+    width: 430px;
+}
+
+label{
+    margin-right: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: rgb(248, 201, 224);
+
+}
+.checkbox{
+    position: relative;
+    right: 8%;
+}
+
+input{
+    margin-bottom: 20px;
+
+}
+.hayr{
+    position: relative;
+    top: 50px;
+}
